@@ -6,4 +6,4 @@ Horiseon is an SEO, Online Reputation and Social Media Marketing Management Comp
 
 ## Screenshot
 
-!{Homework Screenshot}(assets/CodeRefactorScreenshot.png)
+![CodeRefactorScreenshot](https://user-images.githubusercontent.com/63210444/102449914-20caf080-3fea-11eb-905d-2838819dd5ca.png)
