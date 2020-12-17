@@ -1,4 +1,4 @@
-# Code Refactor Homework (https://manorathn.github.io/RefactorDuck/)
+# Code Refactor Homework [GitHub](https://manorathn.github.io/RefactorDuck/)
 
 ## Description
 
