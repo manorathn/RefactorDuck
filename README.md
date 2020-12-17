@@ -1,4 +1,4 @@
-# Code Refactor Homework [evenodd](https://manorathn.github.io/RefactorDuck/)
+# Code Refactor Homework [Link](https://manorathn.github.io/RefactorDuck/)
 
 ## Description
 
